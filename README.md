@@ -11,9 +11,10 @@ Julia 1.0 が出たので, できるだけそれ以上のバージョンに対�
 ## 日本語資料
 
 - Memorandom on Julia Language v0.6.4  
+    https://hsugawa8651.github.io/memojuliav064/ch00.html  
     version 0.6.4
     ```
-    本文は、大学1年次学生のためのプログラミング演習の手引きである。
+    大学1年次学生のためのプログラミング演習の手引きである。
     ```
 
 
