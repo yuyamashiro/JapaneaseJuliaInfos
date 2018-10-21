@@ -13,6 +13,7 @@ Julia 1.0 が出たので, できるだけそれ以上のバージョンに対�
 
 ## Juliaの巻物
 
+### 入門
 - Memorandom on Julia Language v0.6.4  
     https://hsugawa8651.github.io/memojuliav064/ch00.html  
     version 0.6.4
@@ -20,6 +21,10 @@ Julia 1.0 が出たので, できるだけそれ以上のバージョンに対�
     大学1年次学生のためのプログラミング演習の手引きである。
     ```
 
+### 機械学習
 
-
-
+#### Flux.jl
+- [@cometscome_phys](https://qiita.com/cometscome_phys)さんのQiita記事
+    - [Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その１：基本編](https://qiita.com/cometscome_phys/items/e99d6177325e78ebb228)
+    - [Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その２：線形回帰編](https://qiita.com/cometscome_phys/items/f58174c0dad7ecb811ed)
+    - [Juliaで数値計算　その3：コードサンプル〜2次元プロット・可視化編〜](https://qiita.com/cometscome_phys/items/19b041b2f3364705f428)
