@@ -24,7 +24,7 @@ Julia 1.0 が出たので, できるだけそれ以上のバージョンに対�
 ### 機械学習
 
 #### Flux.jl
-- [@cometscome_phys](https://qiita.com/cometscome_phys)さんのQiita記事
+- [@cometscome_phys](https://qiita.com/cometscome_phys)さんのQiita記事 : version 1.0.0
     - [Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その１：基本編](https://qiita.com/cometscome_phys/items/e99d6177325e78ebb228)
     - [Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その２：線形回帰編](https://qiita.com/cometscome_phys/items/f58174c0dad7ecb811ed)
     - [Juliaで数値計算　その3：コードサンプル〜2次元プロット・可視化編〜](https://qiita.com/cometscome_phys/items/19b041b2f3364705f428)
