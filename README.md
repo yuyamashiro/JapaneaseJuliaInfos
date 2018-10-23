@@ -1,6 +1,6 @@
 # Julia no Makimonos
 
-Makkmono is documents for japanease ninja.
+Makimono is documents for japanease ninja.
 
 Julia忍者たちのための日本語資料（巻物）まとめです.  
 > 2018/10/20 #JuliaTokyo でJuliaユーザーをNinjaと表現してたので巻物としました.
