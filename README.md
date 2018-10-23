@@ -14,6 +14,14 @@ Julia 1.0 が出たので, できるだけそれ以上のバージョンに対�
 ## Juliaの巻物
 
 ### 入門
+
+- [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial)  
+    [@bicycle1885](https://github.com/bicycle1885)さんのJulia高速チュートリアル.  
+    他のプログラミング言語が書けるなら, Juliaの文法や書き方を見るのに丁度良い.  
+    version 1.0
+    [Julia高速チュートリアル.ipynb](https://nbviewer.jupyter.org/github/bicycle1885/Julia-Tutorial/blob/master/Julia高速チュートリアル.ipynb)
+    
+
 - Memorandom on Julia Language v0.6.4  
     https://hsugawa8651.github.io/memojuliav064/ch00.html  
     version 0.6.4
